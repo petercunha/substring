@@ -1,2 +1,5 @@
-# substring
-An example of calling an assembly function from C. The substring function written in ARMv6 assembly code.
+# Substring
+Substring function written in ARMv6 assembly code.
+
+## Compilation
+`gcc main.c sub_string.s -o substring`
